@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# binary-editor
-Binary file editor written in Python, supporting memory read/write.
-=======
 # Binary Editor (Python)
 
 A lightweight and easy-to-use binary file editor written in pure Python.  
@@ -100,4 +96,3 @@ Pull requests, enhancements, and bug reports are welcome.
 ## ⭐ Support
 
 If you find this project useful, please consider giving it a star on GitHub! ⭐
->>>>>>> d984687 (Initial commit: Python Binary Editor and sample binary)
